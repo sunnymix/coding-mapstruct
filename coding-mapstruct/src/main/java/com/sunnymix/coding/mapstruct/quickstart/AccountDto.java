@@ -9,4 +9,6 @@ public class AccountDto {
 
     private String familyName;
 
+    private String fullName;
+
 }
